@@ -1,0 +1,18 @@
+# Väljund
+1.	Milline on ettekujutus tulemusest?
+- graafikud
+- tabelid (tulemused)
+- kas on vaja drilldowni? teed algandmeteni
+- analüüs?
+2.	Milline informatsioon peaks olema kindlasti kajastatud?
+3.	Soolise palgalõhe analüüs vahemike või kindlate arvude/palkade põhjal? Mis näitajad on vaja välja tuua?
+4.	Millest veel palgatase sõltub? Mille põhjal, üleüldine? Nt piirkond, tase, kogemused, vanus?
+    Meie andmete põhjal, mis mõjutavad palgataset kõige rohkem.
+5.	Palgalõhe olemasolul, kas seda on vaja veel eraldi analüüsida? Ootused?
+6.  Palgavahemike võrdlus BCS Koolitus vs turul toimuv
+
+# Andmed
+1. Millised andmed on?
+2. Tööpered ja tasandid antud ettevõttes?
+3. Mis andmed on palgalõhe analüüsimiseks?
+4. Millist andmestikku kasutada turu võrdluseks? Kuidas siduda ettevõtte ja turu andmeid?
