@@ -1,4 +1,15 @@
 # Intervjuu
+Birgit Püss, BCS Koolituse personalijuht
+## Sissejuhatus
+**Kokkuvõte palgadierktiivist**
+- Õiguslik raamistik - Direktiiv (EL) 2023/970, vastu võetud 2023, kehtestub 2026
+- Tasustamise läbipaistvus - Objektiivsed ja sooneutraalsed kriteeriumid tasu määramiseks ning palgavõrdluse jaoks info jagamine
+- Töökuulutused	- Palgavahemiku avaldamine ei ole hetkel nõutud
+- Kandideerimisprotsess - Palgaajaloo küsimine on keelatud
+- Aruandlus	- Palgalõhe aruandlus kohustuslik, sõltuvalt töötajate arvust
+- Töötajate õigus teabele - Õigus küsida palgaandmeid töötajate kategooriate kaupa
+- Järelevalve ja sanktsioonid - Võimalikud trahvid ja hüvitised rikkumisel
+- Eesti riigi tugi - Tööde hindamise metoodika, koolitus, online tööriistad
 ## Väljund
 _1. Milline on ettekujutus tulemusest?_
 - Palglõhe _graafik_ - meeldib scatter plot
@@ -8,8 +19,8 @@ _1. Milline on ettekujutus tulemusest?_
 - _analüüs? võrdlus palgaturuga_ - järgmises etapis. Pole selge kas on võrreldavaid palgakategooriaid
 - väljund peaks olema aasta kohta
 - teeme näite 400 töötajaga ettevõtte kohta
-- eesmärk: regulaarne palgalõhe ülevaatus
-- eesmärk 2: palgavahemike välatöötamine. palkade avalikustamine, töötaja peab saama vastuse oma palgakategooria kohta. Võimalus esitada palgavahemikke töökuulutuse avaldamisel. Tööintervjuul ei tohi küsida tema palga ajaloo kohta. 
+- **eesmärk:** regulaarne palgalõhe ülevaatus
+- **eesmärk 2:** palgavahemike välatöötamine. palkade avalikustamine, töötaja peab saama vastuse oma palgakategooria kohta. Võimalus esitada palgavahemikke töökuulutuse avaldamisel. Tööintervjuul ei tohi küsida tema palga ajaloo kohta. 
 
 2.	_Milline informatsioon peaks olema kindlasti kajastatud?_
 - palgavahemik (miinimum ja maksimum)
@@ -26,6 +37,8 @@ _1. Milline on ettekujutus tulemusest?_
 1. _Millised andmed on?_
 - töötaja
 - palk
+![Palgaandmete struktuur](andmed.jpg)
+
 
 2. _Tööpered ja tasandid antud ettevõttes?_
 
