@@ -14,13 +14,13 @@ Birgit Püss, BCS Koolituse personalijuht
 _1. Milline on ettekujutus tulemusest?_
 - Palglõhe _graafik_ - meeldib scatter plot
 - _tabel_ (Näite allikas: Tellija saadetud slaidishow)
-![alt text](image.png)
+![alt text](images/image.png)
 - _kas on vaja drilldowni?_ Vaja andmete kontrollimiseks, anomaaliatest arusaamiseks
 - _analüüs? võrdlus palgaturuga_ - järgmises etapis. Pole selge kas on võrreldavaid palgakategooriaid
 - väljund peaks olema aasta kohta
 - teeme näite 400 töötajaga ettevõtte kohta
 - **eesmärk:** regulaarne palgalõhe ülevaatus
-- **eesmärk 2:** palgavahemike välatöötamine. palkade avalikustamine, töötaja peab saama vastuse oma palgakategooria kohta. Võimalus esitada palgavahemikke töökuulutuse avaldamisel. Tööintervjuul ei tohi küsida tema palga ajaloo kohta. 
+- **eesmärk 2:** palgavahemike väljatöötamine. palkade avalikustamine, töötaja peab saama vastuse oma palgakategooria kohta. Võimalus esitada palgavahemikke töökuulutuse avaldamisel. Tööintervjuul ei tohi küsida tema palga ajaloo kohta. 
 
 2.	_Milline informatsioon peaks olema kindlasti kajastatud?_
 - palgavahemik (miinimum ja maksimum)
@@ -37,7 +37,7 @@ _1. Milline on ettekujutus tulemusest?_
 1. _Millised andmed on?_
 - töötaja
 - palk
-![Palgaandmete struktuur](andmed.jpg)
+![Palgaandmete struktuur](images/andmed.jpg)
 
 
 2. _Tööpered ja tasandid antud ettevõttes?_
