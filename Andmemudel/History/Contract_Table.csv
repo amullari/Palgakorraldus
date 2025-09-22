@@ -1,0 +1,421 @@
+Employee ID,Contract ID,Gender,Full name,Category,Position,Level,Workload,Start Date,End Date
+E0001,C0001,Male,Alexander Hill,2512 - Software developers,Senior Software Developer,Senior,1.0,2016-10-18,
+E0002,C0002,Male,Brian Yang,2512 - Software developers,Junior Software Developer,Junior,1.0,2022-04-12,
+E0003,C0003,Male,Javier Johnson,2512 - Software developers,Junior Software Developer,Junior,1.0,2016-09-20,
+E0004,C0004,Female,Lindsay Hoffman,2512 - Software developers,Senior Software Developer,Senior,0.5,2024-01-22,
+E0005,C0005,Male,Jason Cole,2512 - Software developers,Senior Software Developer,Senior,1.0,2017-09-25,
+E0006,C0006,Female,Abigail Shaffer,2421 - Management and organization analysts,Project Manager (IT),Lead,1.0,2018-10-16,2024-06-13
+E0007,C0007,Female,Cindy Gallagher,2421 - Management and organization analysts,Product Manager,Lead,1.0,2014-09-28,2024-02-06
+E0008,C0008,Female,Heather Cooper,2512 - Software developers,Senior Software Developer,Senior,0.5,2017-07-02,
+E0009,C0009,Female,Monica Herrera,2512 - Software developers,Junior Software Developer,Junior,1.0,2019-06-11,
+E0010,C0010,Female,Elaine Fuller,2512 - Software developers,Junior Software Developer,Junior,1.0,2019-02-26,
+E0011,C0011,Female,Michele Williams,2512 - Software developers,Senior Software Developer,Senior,1.0,2016-11-17,
+E0012,C0012,Male,William Wyatt,2421 - Management and organization analysts,Data Analyst,Mid,1.0,2014-09-20,
+E0013,C0013,Female,Jody Flowers,2529 - Database and network professionals not elsewhere classified,Information Security Analyst,Mid,1.0,2015-10-08,2024-05-23
+E0014,C0014,Male,Michael Miles,2512 - Software developers,Senior Software Developer,Senior,1.0,2024-08-18,
+E0015,C0015,Female,Lisa Jackson,2421 - Management and organization analysts,Product Manager,Lead,1.0,2017-03-02,2024-03-04
+E0016,C0016,Female,Debra Schaefer,2519 - Software and applications developers and analysts not elsewhere classified,QA Tester,Mid,1.0,2024-09-16,
+E0017,C0017,Female,Melinda Cameron,1211 - Finance managers,Finance Manager,Lead,0.5,2013-12-14,
+E0018,C0018,Male,Andrew Stewart,2421 - Management and organization analysts,Product Manager,Lead,1.0,2017-07-22,
+E0019,C0019,Male,Thomas Bradley,2512 - Software developers,Software Developer,Mid,1.0,2018-05-10,
+E0020,C0020,Male,Jonathan Wilkerson,2421 - Management and organization analysts,Project Manager (IT),Lead,1.0,2023-12-09,2024-06-27
+E0021,C0021,Male,Charles Mcgee,2512 - Software developers,Junior Software Developer,Junior,1.0,2022-03-04,
+E0022,C0022,Female,Lauren Hurst,2512 - Software developers,Senior Software Developer,Senior,1.0,2019-10-18,
+E0023,C0023,Female,Yolanda Taylor,2512 - Software developers,Senior Software Developer,Senior,0.25,2021-05-25,
+E0024,C0024,Male,Anthony Rodriguez,2512 - Software developers,Software Developer,Mid,1.0,2023-09-04,
+E0025,C0025,Male,Michael Carlson,2421 - Management and organization analysts,Project Manager (IT),Lead,1.0,2019-07-19,2024-05-28
+E0026,C0026,Female,Julie King,2166 - Graphic and multimedia designers,UI Designer,Mid,0.5,2022-05-31,2024-11-30
+E0027,C0027,Male,Michael Wilson,2512 - Software developers,Junior Software Developer,Junior,0.25,2022-02-19,
+E0028,C0028,Male,Randy Peterson,2421 - Management and organization analysts,Product Manager,Lead,0.75,2017-12-29,
+E0029,C0029,Female,Jody Mckay,2512 - Software developers,Full-Stack Developer,Mid,1.0,2017-06-25,
+E0030,C0030,Female,Dr. Katie Rodriguez,2421 - Management and organization analysts,Project Manager (IT),Lead,1.0,2023-08-22,
+E0031,C0031,Female,Margaret Lynch,2512 - Software developers,Software Developer,Mid,1.0,2015-08-08,
+E0032,C0032,Male,Christopher Ashley,2512 - Software developers,Junior Software Developer,Junior,0.5,2022-01-09,
+E0033,C0033,Male,Kyle Burns,2421 - Management and organization analysts,Product Manager,Lead,1.0,2014-11-27,
+E0034,C0034,Female,Sherry Decker,2421 - Management and organization analysts,Project Manager (IT),Lead,1.0,2018-03-26,
+E0035,C0035,Female,Cynthia Bradley,2421 - Management and organization analysts,Product Manager,Lead,1.0,2014-05-05,
+E0036,C0036,Male,John Jones,2512 - Software developers,Senior Software Developer,Senior,0.5,2022-01-24,
+E0037,C0037,Male,Carl Alvarez,2421 - Management and organization analysts,Project Manager (IT),Lead,1.0,2022-05-10,
+E0038,C0038,Female,Kelsey Obrien,2421 - Management and organization analysts,Project Manager (IT),Lead,0.5,2016-08-09,2024-01-26
+E0039,C0039,Male,Nicholas Harris,2512 - Software developers,Junior Software Developer,Junior,0.75,2018-04-21,2024-06-03
+E0040,C0040,Male,Mr. Jeffrey Holmes Jr.,2421 - Management and organization analysts,Product Manager,Lead,1.0,2016-10-28,2024-01-25
+E0041,C0041,Male,Kevin Hall,2512 - Software developers,Junior Software Developer,Junior,0.25,2016-09-30,
+E0042,C0042,Female,Michelle Brown,2421 - Management and organization analysts,Project Manager (IT),Lead,1.0,2014-02-23,
+E0043,C0043,Male,Scott Jones,2512 - Software developers,Junior Software Developer,Junior,1.0,2017-01-18,2024-08-01
+E0044,C0044,Female,Karina Ryan,2521 - Database designers and administrators,Database Administrator,Mid,1.0,2022-09-19,2024-11-10
+E0045,C0045,Male,David Kennedy,2512 - Software developers,Junior Software Developer,Junior,1.0,2019-12-05,
+E0046,C0046,Male,Brent Jordan,2512 - Software developers,Junior Software Developer,Junior,1.0,2020-03-17,
+E0047,C0047,Female,Sharon Brown,2512 - Software developers,Senior Software Developer,Senior,1.0,2024-02-13,
+E0048,C0048,Female,Annette Powell MD,2512 - Software developers,Junior Software Developer,Junior,1.0,2014-11-10,
+E0049,C0049,Male,Connor West,3512 - Information and communications technology user support technicians,IT Support Specialist,Mid,1.0,2020-03-06,
+E0050,C0050,Female,Julie Baxter,2512 - Software developers,Senior Software Developer,Senior,1.0,2014-04-14,
+E0051,C0051,Female,Shannon Pierce,2512 - Software developers,Junior Software Developer,Junior,1.0,2013-11-11,
+E0052,C0052,Male,Joshua Smith,2512 - Software developers,Junior Software Developer,Junior,0.5,2014-08-03,
+E0053,C0053,Male,Samuel Martin,2522 - Systems administrators,System Administrator,Mid,1.0,2021-04-06,
+E0054,C0054,Female,Sharon Barrera,2512 - Software developers,Senior Software Developer,Senior,0.75,2015-10-21,2024-05-27
+E0055,C0055,Male,James House,2512 - Software developers,Senior Software Developer,Senior,1.0,2020-09-28,2024-09-04
+E0056,C0056,Male,Michael Cross,"1321 - Manufacturing, mining, construction, and distribution managers",Director of Engineering,Mid,1.0,2022-06-16,
+E0057,C0057,Female,Katelyn Lee,2512 - Software developers,Junior Software Developer,Junior,1.0,2016-09-14,2024-01-23
+E0058,C0058,Male,Joshua Adkins,2512 - Software developers,Senior Software Developer,Senior,1.0,2013-12-22,
+E0059,C0059,Male,John Calhoun,2512 - Software developers,Senior Software Developer,Senior,0.5,2022-01-14,
+E0060,C0060,Male,Tyler Miller,2512 - Software developers,Back-End Developer,Mid,1.0,2016-02-29,
+E0061,C0061,Female,Andrea Hensley,2519 - Software and applications developers and analysts not elsewhere classified,QA Tester,Mid,0.75,2019-11-14,
+E0062,C0062,Male,Steve Sanchez,3341 - Office supervisors,Office Manager,Lead,1.0,2023-02-12,
+E0063,C0063,Female,Angela Sandoval,2166 - Graphic and multimedia designers,UX Designer,Mid,1.0,2022-08-14,
+E0064,C0064,Male,Timothy Harris,1211 - Finance managers,Finance Manager,Lead,1.0,2018-05-07,2024-04-02
+E0065,C0065,Female,Bonnie Brewer,2522 - Systems administrators,System Administrator,Mid,1.0,2020-10-12,
+E0066,C0066,Female,Nicole Jones,2512 - Software developers,Junior Software Developer,Junior,0.75,2020-10-18,
+E0067,C0067,Female,Kristine Garcia,2512 - Software developers,Senior Software Developer,Senior,0.75,2022-02-23,
+E0068,C0068,Female,Deborah Mahoney,2512 - Software developers,Senior Software Developer,Senior,1.0,2014-03-04,
+E0069,C0069,Female,Jaclyn Moore,1211 - Finance managers,Finance Manager,Lead,1.0,2022-03-30,
+E0070,C0070,Female,Lisa Archer,2512 - Software developers,Senior Software Developer,Senior,1.0,2024-02-16,
+E0071,C0071,Male,Michael Spencer,2512 - Software developers,Junior Software Developer,Junior,0.75,2015-04-15,2024-02-10
+E0072,C0072,Female,Stacy Newton,2512 - Software developers,Senior Software Developer,Senior,1.0,2015-08-24,
+E0073,C0073,Female,Lisa Robbins,2512 - Software developers,Senior Software Developer,Senior,1.0,2016-06-19,
+E0074,C0074,Female,Sarah Wagner,2512 - Software developers,Software Developer,Mid,1.0,2017-04-10,
+E0075,C0075,Male,Ryan Davis,2421 - Management and organization analysts,Business Analyst,Mid,1.0,2020-03-17,
+E0076,C0076,Female,Amanda Cook,2421 - Management and organization analysts,Product Manager,Lead,1.0,2015-03-24,
+E0077,C0077,Male,Dennis Figueroa,2512 - Software developers,Senior Software Developer,Senior,1.0,2022-05-22,
+E0078,C0078,Female,Kristina Rodriguez,2512 - Software developers,Senior Software Developer,Senior,1.0,2024-10-03,
+E0079,C0079,Male,Joshua Davenport,2421 - Management and organization analysts,Product Manager,Lead,1.0,2022-11-29,2024-04-22
+E0080,C0080,Female,Jessica Williams,"1321 - Manufacturing, mining, construction, and distribution managers",Director of Engineering,Mid,1.0,2019-03-16,
+E0081,C0081,Female,Rebecca Valencia,2512 - Software developers,Junior Software Developer,Junior,0.5,2019-02-02,2024-03-22
+E0082,C0082,Male,Michael Gomez,2512 - Software developers,Software Developer,Mid,1.0,2022-07-11,2024-12-09
+E0083,C0083,Female,Valerie Brady,1330 - Information and communications technology service managers,Director of IT,Mid,0.75,2017-01-11,
+E0084,C0084,Male,William Cochran,2512 - Software developers,Senior Software Developer,Senior,0.75,2020-01-06,2024-01-10
+E0085,C0085,Female,Tammy Patton,2522 - Systems administrators,DevOps Engineer,Mid,1.0,2020-01-03,
+E0086,C0086,Female,Sharon Cochran,2512 - Software developers,Senior Software Developer,Senior,1.0,2017-07-16,
+E0087,C0087,Male,Michael Reyes,2512 - Software developers,Junior Software Developer,Junior,1.0,2013-08-29,
+E0088,C0088,Female,Courtney Velasquez,2512 - Software developers,Junior Software Developer,Junior,1.0,2020-10-31,
+E0089,C0089,Male,Robert Savage,2512 - Software developers,Junior Software Developer,Junior,1.0,2016-10-17,
+E0090,C0090,Female,Cheryl Murphy,1330 - Information and communications technology service managers,Director of IT,Mid,0.5,2014-03-08,
+E0091,C0091,Male,Mr. Martin Ross,2421 - Management and organization analysts,Product Manager,Lead,1.0,2022-02-14,2024-05-08
+E0092,C0092,Female,Ashley Waller,2421 - Management and organization analysts,Product Manager,Lead,1.0,2016-01-15,
+E0093,C0093,Male,William Johnson,2512 - Software developers,Senior Software Developer,Senior,1.0,2023-02-24,
+E0094,C0094,Female,Monica Edwards,3341 - Office supervisors,Office Manager,Lead,1.0,2023-04-25,2024-07-17
+E0095,C0095,Male,Steven Lee,2512 - Software developers,Junior Software Developer,Junior,0.75,2013-10-03,
+E0096,C0096,Male,Aaron Frost,2421 - Management and organization analysts,Product Manager,Lead,1.0,2022-02-28,
+E0097,C0097,Male,Todd Mclaughlin,2512 - Software developers,Senior Software Developer,Senior,1.0,2016-05-09,
+E0098,C0098,Female,Andrea Beck,2512 - Software developers,Senior Software Developer,Senior,0.5,2018-08-14,
+E0099,C0099,Male,Matthew Martinez,2512 - Software developers,Junior Software Developer,Junior,1.0,2018-02-10,
+E0100,C0100,Male,Michael Nguyen,2512 - Software developers,Junior Software Developer,Junior,1.0,2024-11-11,
+E0101,C0101,Female,Bethany Fisher,2423 - Personnel and careers professionals,Recruiter,Mid,1.0,2019-06-14,
+E0102,C0102,Female,Stephanie Gilbert,2512 - Software developers,Junior Software Developer,Junior,1.0,2018-02-14,
+E0103,C0103,Female,Sandra Torres,2512 - Software developers,Junior Software Developer,Junior,0.75,2016-07-30,
+E0104,C0104,Female,Lauren Pena,2512 - Software developers,Front-End Developer,Mid,1.0,2020-11-29,
+E0105,C0105,Male,Michael Dixon,2512 - Software developers,Senior Software Developer,Senior,0.5,2015-11-21,
+E0106,C0106,Male,Drew Beck,2512 - Software developers,Junior Software Developer,Junior,1.0,2023-07-15,
+E0107,C0107,Female,Sabrina Potter,2512 - Software developers,Senior Software Developer,Senior,1.0,2024-06-12,
+E0108,C0108,Female,Renee Hernandez,2512 - Software developers,Senior Software Developer,Senior,1.0,2013-10-15,2024-04-05
+E0109,C0109,Male,Logan Mack MD,2512 - Software developers,Senior Software Developer,Senior,1.0,2023-09-19,2024-08-11
+E0110,C0110,Female,Melissa Snyder,2512 - Software developers,Senior Software Developer,Senior,1.0,2017-02-25,
+E0111,C0111,Male,Michael Stafford,2519 - Software and applications developers and analysts not elsewhere classified,QA Tester,Mid,1.0,2014-10-25,
+E0112,C0112,Female,Colleen Brock,2421 - Management and organization analysts,Project Manager (IT),Lead,0.5,2024-11-03,
+E0113,C0113,Male,Anthony Wright,2512 - Software developers,Senior Software Developer,Senior,1.0,2015-01-25,
+E0114,C0114,Female,Rebecca Contreras,2512 - Software developers,Front-End Developer,Mid,1.0,2022-07-06,
+E0115,C0115,Female,Tiffany Vance,2421 - Management and organization analysts,Project Manager (IT),Lead,1.0,2023-06-04,
+E0116,C0116,Male,Steven Simmons,2529 - Database and network professionals not elsewhere classified,Information Security Analyst,Mid,1.0,2022-04-28,
+E0117,C0117,Female,Caitlin Hensley,2512 - Software developers,Senior Software Developer,Senior,1.0,2020-08-28,
+E0118,C0118,Female,Danielle Walsh,1211 - Finance managers,Finance Manager,Lead,1.0,2021-11-14,
+E0119,C0119,Male,David Gonzales,2512 - Software developers,Senior Software Developer,Senior,1.0,2017-11-11,
+E0120,C0120,Male,George Orozco,3341 - Office supervisors,Office Manager,Lead,1.0,2014-05-16,
+E0121,C0121,Female,Crystal Benson,2512 - Software developers,Senior Software Developer,Senior,1.0,2016-08-22,
+E0122,C0122,Male,Jason Daniels,3512 - Information and communications technology user support technicians,Help Desk Technician,Mid,1.0,2020-01-28,2024-01-25
+E0123,C0123,Female,Jennifer Stein,2421 - Management and organization analysts,Product Manager,Lead,1.0,2022-12-09,
+E0124,C0124,Female,Alicia Gilmore,2421 - Management and organization analysts,Product Manager,Lead,1.0,2022-10-18,2024-05-27
+E0125,C0125,Female,Terri Evans,2512 - Software developers,Junior Software Developer,Junior,1.0,2019-08-21,
+E0126,C0126,Male,Troy Barnes,2512 - Software developers,Senior Software Developer,Senior,1.0,2022-04-17,
+E0127,C0127,Female,Stephanie Freeman,2523 - Computer network professionals,Network Engineer,Mid,1.0,2017-08-23,2024-05-14
+E0128,C0128,Female,Alyssa Rogers,2421 - Management and organization analysts,Product Manager,Lead,1.0,2024-07-22,
+E0129,C0129,Male,Nathaniel Pittman,2423 - Personnel and careers professionals,HR Specialist,Mid,1.0,2015-03-05,
+E0130,C0130,Male,Joseph Meadows MD,2512 - Software developers,Junior Software Developer,Junior,1.0,2024-04-12,
+E0131,C0131,Female,Maria Taylor,2522 - Systems administrators,DevOps Engineer,Mid,1.0,2020-11-08,
+E0132,C0132,Female,Debbie Murphy,2522 - Systems administrators,DevOps Engineer,Mid,0.75,2020-09-26,
+E0133,C0133,Male,Philip Gray,2512 - Software developers,Front-End Developer,Mid,1.0,2020-03-04,2024-04-07
+E0134,C0134,Male,John Curry,2512 - Software developers,Software Developer,Mid,1.0,2013-11-20,
+E0135,C0135,Female,Mrs. Marie Harrington DDS,2421 - Management and organization analysts,Product Manager,Lead,1.0,2013-07-12,
+E0136,C0136,Female,Christina Smith,2421 - Management and organization analysts,Project Manager (IT),Lead,1.0,2015-08-05,
+E0137,C0137,Female,Kara Wilson,2512 - Software developers,Senior Software Developer,Senior,1.0,2016-09-16,
+E0138,C0138,Male,David Wood,2512 - Software developers,Senior Software Developer,Senior,1.0,2023-04-23,2024-07-29
+E0139,C0139,Male,Paul Wilson,2421 - Management and organization analysts,Product Manager,Lead,0.75,2015-10-15,
+E0140,C0140,Female,Mrs. Allison Collins,2512 - Software developers,Junior Software Developer,Junior,1.0,2024-07-10,
+E0141,C0141,Female,Jaime David,2512 - Software developers,Back-End Developer,Mid,1.0,2016-05-17,
+E0142,C0142,Female,Melissa Burton,2512 - Software developers,Junior Software Developer,Junior,1.0,2014-09-26,
+E0143,C0143,Female,Elizabeth Sutton,2512 - Software developers,Junior Software Developer,Junior,1.0,2015-01-23,
+E0144,C0144,Female,Kylie Williams,2512 - Software developers,Senior Software Developer,Senior,1.0,2022-01-24,
+E0145,C0145,Female,Jacqueline Hunter,"2120 - Mathematicians, actuaries and statisticians",Data Scientist,Mid,1.0,2018-10-22,
+E0146,C0146,Female,Jennifer Henry,2421 - Management and organization analysts,Product Manager,Lead,1.0,2020-05-17,2024-05-20
+E0147,C0147,Male,Ronald Zimmerman,2512 - Software developers,Senior Software Developer,Senior,1.0,2020-05-30,
+E0148,C0148,Male,Joseph Santos,2421 - Management and organization analysts,Product Manager,Lead,0.75,2023-06-25,
+E0149,C0149,Male,Joshua Webb,2512 - Software developers,Senior Software Developer,Senior,1.0,2020-05-30,
+E0150,C0150,Female,Leslie Morris,2421 - Management and organization analysts,Product Manager,Lead,1.0,2017-03-06,
+E0151,C0151,Male,Brandon Keith,2421 - Management and organization analysts,Product Manager,Lead,1.0,2017-02-24,
+E0152,C0152,Female,Laura Barnett,2512 - Software developers,Senior Software Developer,Senior,0.5,2018-09-22,2024-05-04
+E0153,C0153,Female,Sarah White,2421 - Management and organization analysts,Project Manager (IT),Lead,1.0,2016-08-11,
+E0154,C0154,Female,Deanna Ramirez,2522 - Systems administrators,System Administrator,Mid,0.25,2023-02-22,
+E0155,C0155,Female,Desiree Smith,2512 - Software developers,Junior Software Developer,Junior,1.0,2016-04-02,
+E0156,C0156,Female,Michelle Freeman,2522 - Systems administrators,System Administrator,Mid,1.0,2017-02-02,
+E0157,C0157,Female,Maria Henry,2512 - Software developers,Junior Software Developer,Junior,1.0,2013-04-18,
+E0158,C0158,Male,Daniel Holt,2512 - Software developers,Front-End Developer,Mid,1.0,2018-03-18,
+E0159,C0159,Female,Jackie Tran,1211 - Finance managers,Finance Manager,Lead,1.0,2018-11-07,2024-06-14
+E0160,C0160,Female,Ms. Heather Chavez MD,2421 - Management and organization analysts,Product Manager,Lead,0.5,2016-12-03,
+E0161,C0161,Male,Corey Wilson,2512 - Software developers,Senior Software Developer,Senior,0.25,2022-02-12,
+E0162,C0162,Female,Melissa Lee,2512 - Software developers,Junior Software Developer,Junior,1.0,2021-03-28,
+E0163,C0163,Male,Kevin Wolf,2512 - Software developers,Junior Software Developer,Junior,1.0,2023-02-26,2024-12-26
+E0164,C0164,Male,Brian Lee,2421 - Management and organization analysts,Project Manager (IT),Lead,1.0,2016-11-14,
+E0165,C0165,Male,Eric Erickson,2421 - Management and organization analysts,Project Manager (IT),Lead,1.0,2015-02-26,
+E0166,C0166,Male,William Tran,2512 - Software developers,Senior Software Developer,Senior,1.0,2024-11-12,
+E0167,C0167,Female,Margaret Mullins,2512 - Software developers,Back-End Developer,Mid,1.0,2014-09-30,2024-12-04
+E0168,C0168,Female,Diane Mendoza,2512 - Software developers,Senior Software Developer,Senior,1.0,2018-10-19,
+E0169,C0169,Female,Amber Everett,2512 - Software developers,Full-Stack Developer,Mid,1.0,2021-02-16,
+E0170,C0170,Female,Ana Vasquez,2512 - Software developers,Junior Software Developer,Junior,0.25,2022-10-26,
+E0171,C0171,Female,Amy Hernandez,2512 - Software developers,Junior Software Developer,Junior,0.75,2022-07-30,
+E0172,C0172,Female,Angela Wright,2512 - Software developers,Senior Software Developer,Senior,1.0,2022-06-30,
+E0173,C0173,Female,Lisa Gibbs,2611 - Lawyers,Legal Counsel,Mid,1.0,2016-11-03,2024-10-28
+E0174,C0174,Male,Jerry Ramos,2512 - Software developers,Junior Software Developer,Junior,1.0,2023-01-05,
+E0175,C0175,Male,Eric Oliver DDS,2421 - Management and organization analysts,Product Manager,Lead,1.0,2014-09-09,
+E0176,C0176,Female,Christine Clark,2512 - Software developers,Senior Software Developer,Senior,0.5,2024-03-27,
+E0177,C0177,Female,Cynthia Arnold,2512 - Software developers,Senior Software Developer,Senior,0.5,2015-08-31,
+E0178,C0178,Male,Jerry Wheeler,2421 - Management and organization analysts,Project Manager (IT),Lead,0.75,2017-12-15,2024-01-13
+E0179,C0179,Female,Michelle Warner,2512 - Software developers,Junior Software Developer,Junior,1.0,2020-09-22,
+E0180,C0180,Female,Cynthia Baker,2512 - Software developers,Senior Software Developer,Senior,1.0,2023-08-20,2024-08-17
+E0181,C0181,Female,Taylor Coleman,2166 - Graphic and multimedia designers,UX Designer,Mid,1.0,2022-04-07,
+E0182,C0182,Female,Brittany Baker,2512 - Software developers,Junior Software Developer,Junior,1.0,2015-06-03,
+E0183,C0183,Female,Carol Parker,2512 - Software developers,Junior Software Developer,Junior,1.0,2022-09-07,2024-12-23
+E0184,C0184,Female,Becky Barker,2512 - Software developers,Junior Software Developer,Junior,1.0,2024-11-26,
+E0185,C0185,Female,Denise Fernandez,2421 - Management and organization analysts,Project Manager (IT),Lead,1.0,2020-06-13,2024-09-28
+E0186,C0186,Female,Amanda Reynolds,2421 - Management and organization analysts,Product Manager,Lead,1.0,2018-06-26,2024-08-22
+E0187,C0187,Female,Anna Hayden,2512 - Software developers,Senior Software Developer,Senior,1.0,2022-10-15,
+E0188,C0188,Male,Alex Hubbard,2512 - Software developers,Senior Software Developer,Senior,1.0,2017-08-02,2024-08-11
+E0189,C0189,Female,Nicole Ruiz,2512 - Software developers,Senior Software Developer,Senior,1.0,2024-02-01,
+E0190,C0190,Female,Diana Shea,2521 - Database designers and administrators,Database Administrator,Mid,1.0,2020-06-01,
+E0191,C0191,Male,John Davis,2512 - Software developers,Full-Stack Developer,Mid,0.25,2018-12-03,
+E0192,C0192,Male,Frank Garcia,2529 - Database and network professionals not elsewhere classified,IT Security Specialist,Mid,1.0,2015-09-27,2024-05-08
+E0193,C0193,Male,Jon Bates,2512 - Software developers,Junior Software Developer,Junior,1.0,2019-10-25,2024-11-11
+E0194,C0194,Male,Andrew Miller,2519 - Software and applications developers and analysts not elsewhere classified,QA Tester,Mid,1.0,2017-04-18,2024-05-05
+E0195,C0195,Male,Raymond Hancock,2512 - Software developers,Back-End Developer,Mid,1.0,2013-01-08,2024-12-12
+E0196,C0196,Female,Kimberly Gutierrez,2421 - Management and organization analysts,Product Manager,Lead,1.0,2016-03-11,
+E0197,C0197,Female,Lisa Jimenez,2512 - Software developers,Junior Software Developer,Junior,1.0,2020-07-09,
+E0198,C0198,Male,Dalton Dunn,2512 - Software developers,Senior Software Developer,Senior,1.0,2017-11-25,2024-06-19
+E0199,C0199,Male,John Johnson,2421 - Management and organization analysts,Project Manager (IT),Lead,1.0,2023-09-20,
+E0200,C0200,Female,Cynthia Moore,2512 - Software developers,Senior Software Developer,Senior,1.0,2022-05-16,2024-10-02
+E0201,C0201,Female,Jennifer Walker,2512 - Software developers,Senior Software Developer,Senior,1.0,2014-12-07,
+E0202,C0202,Female,Autumn Collier,2421 - Management and organization analysts,Product Manager,Lead,1.0,2021-06-24,
+E0203,C0203,Male,Edgar Thornton,2166 - Graphic and multimedia designers,UX Designer,Mid,1.0,2020-01-26,2024-11-20
+E0204,C0204,Female,Kaitlyn Bryant,2512 - Software developers,Junior Software Developer,Junior,1.0,2015-06-18,
+E0205,C0205,Female,Tammy Romero,2421 - Management and organization analysts,Product Manager,Lead,1.0,2015-04-29,2024-12-01
+E0206,C0206,Male,Raymond Dickerson,2512 - Software developers,Senior Software Developer,Senior,0.5,2018-10-13,
+E0207,C0207,Female,Katie Hoover,2421 - Management and organization analysts,Product Manager,Lead,1.0,2017-10-24,
+E0208,C0208,Female,Sara Carpenter,2512 - Software developers,Senior Software Developer,Senior,1.0,2024-03-24,
+E0209,C0209,Male,Charles Ryan,2421 - Management and organization analysts,Product Manager,Lead,1.0,2018-11-15,
+E0210,C0210,Female,Pamela Bennett,2423 - Personnel and careers professionals,HR Specialist,Mid,0.5,2018-06-23,2024-12-03
+E0211,C0211,Male,Michael Armstrong,2512 - Software developers,Senior Software Developer,Senior,1.0,2016-12-22,
+E0212,C0212,Female,Jennifer Flores,2512 - Software developers,Junior Software Developer,Junior,1.0,2021-01-17,
+E0213,C0213,Female,Roberta Hughes,2512 - Software developers,Junior Software Developer,Junior,1.0,2024-04-17,
+E0214,C0214,Female,Marissa Hernandez,2512 - Software developers,Senior Software Developer,Senior,1.0,2013-08-19,
+E0215,C0215,Female,Traci Rivera,2512 - Software developers,Junior Software Developer,Junior,0.5,2014-09-16,
+E0216,C0216,Male,Jeremiah Fox,2512 - Software developers,Senior Software Developer,Senior,1.0,2020-10-10,
+E0217,C0217,Female,Brianna Pitts,2512 - Software developers,Software Developer,Mid,1.0,2015-08-18,
+E0218,C0218,Female,Rachael Baker,2421 - Management and organization analysts,Product Manager,Lead,1.0,2023-08-09,
+E0219,C0219,Male,Matthew Christian,2512 - Software developers,Junior Software Developer,Junior,1.0,2024-06-22,
+E0220,C0220,Male,James Stewart,2512 - Software developers,Senior Software Developer,Senior,1.0,2021-04-21,
+E0221,C0221,Female,Amanda Jones,2512 - Software developers,Software Developer,Mid,1.0,2023-09-27,
+E0222,C0222,Male,Dustin Perez,2512 - Software developers,Senior Software Developer,Senior,1.0,2014-07-16,2024-06-17
+E0223,C0223,Male,Philip Padilla Jr.,2421 - Management and organization analysts,Product Manager,Lead,0.75,2015-10-31,2024-09-26
+E0224,C0224,Female,Alyssa Nguyen,2421 - Management and organization analysts,Project Manager (IT),Lead,1.0,2013-12-15,
+E0225,C0225,Female,Jade Thomas,2421 - Management and organization analysts,Project Manager (IT),Lead,0.5,2022-01-14,2024-06-09
+E0226,C0226,Male,Ricky Jackson,2529 - Database and network professionals not elsewhere classified,Data Engineer,Mid,1.0,2014-05-06,
+E0227,C0227,Male,James Vega,2512 - Software developers,Senior Software Developer,Senior,1.0,2021-06-20,
+E0228,C0228,Male,Charles Murray,2512 - Software developers,Junior Software Developer,Junior,1.0,2017-04-28,
+E0229,C0229,Female,Mary Nolan,2529 - Database and network professionals not elsewhere classified,IT Security Specialist,Mid,1.0,2020-11-30,
+E0230,C0230,Male,Michael Moore,2529 - Database and network professionals not elsewhere classified,Data Engineer,Mid,1.0,2020-07-07,
+E0231,C0231,Male,William Evans,2421 - Management and organization analysts,Product Manager,Lead,1.0,2020-03-21,
+E0232,C0232,Female,Joyce Turner,2512 - Software developers,Senior Software Developer,Senior,0.5,2019-07-19,
+E0233,C0233,Male,Brian James,1211 - Finance managers,Finance Manager,Lead,1.0,2019-02-09,
+E0234,C0234,Female,Wendy Phillips,2512 - Software developers,Senior Software Developer,Senior,1.0,2024-03-14,
+E0235,C0235,Female,Aimee Grimes,2512 - Software developers,Senior Software Developer,Senior,0.5,2013-11-01,
+E0236,C0236,Male,Patrick Wall,2421 - Management and organization analysts,Product Manager,Lead,1.0,2017-11-14,
+E0237,C0237,Male,David Pham,2529 - Database and network professionals not elsewhere classified,Cloud Engineer,Mid,1.0,2016-09-22,
+E0238,C0238,Male,Marc Byrd,2512 - Software developers,Junior Software Developer,Junior,0.5,2024-03-20,2024-09-21
+E0239,C0239,Male,Mark Berger,2512 - Software developers,Software Developer,Mid,1.0,2023-12-31,
+E0240,C0240,Female,Rachel Johnson,2522 - Systems administrators,System Administrator,Mid,1.0,2019-03-18,2024-10-11
+E0241,C0241,Female,Susan Murphy,2512 - Software developers,Junior Software Developer,Junior,1.0,2020-01-26,
+E0242,C0242,Male,Carlos Ryan,2421 - Management and organization analysts,Product Manager,Lead,1.0,2019-03-24,
+E0243,C0243,Male,Thomas Rivas,2512 - Software developers,Software Developer,Mid,0.75,2017-05-16,
+E0244,C0244,Female,Terry Coffey,2512 - Software developers,Junior Software Developer,Junior,1.0,2018-01-08,
+E0245,C0245,Female,Gina Wilson,2512 - Software developers,Junior Software Developer,Junior,1.0,2014-04-13,
+E0246,C0246,Female,Tracy Dalton,2512 - Software developers,Senior Software Developer,Senior,1.0,2024-06-22,
+E0247,C0247,Female,Tracy Ballard MD,3512 - Information and communications technology user support technicians,Help Desk Technician,Mid,1.0,2019-09-18,
+E0248,C0248,Male,Joshua Gibson,2512 - Software developers,Junior Software Developer,Junior,1.0,2024-06-12,2024-10-17
+E0249,C0249,Male,Kevin Carson,2512 - Software developers,Software Developer,Mid,1.0,2019-04-28,2024-02-12
+E0250,C0250,Male,John Harvey,2512 - Software developers,Junior Software Developer,Junior,1.0,2022-07-21,
+E0251,C0251,Male,Leonard Holland,2512 - Software developers,Senior Software Developer,Senior,1.0,2023-10-24,
+E0252,C0252,Male,Theodore Turner,2512 - Software developers,Senior Software Developer,Senior,0.75,2019-12-13,
+E0253,C0253,Male,Andrew Johnson,2421 - Management and organization analysts,Product Manager,Lead,1.0,2021-05-20,
+E0254,C0254,Female,Cynthia Medina,2421 - Management and organization analysts,Product Manager,Lead,0.75,2019-08-12,2024-06-25
+E0255,C0255,Male,Travis Horton,2421 - Management and organization analysts,Project Manager (IT),Lead,0.5,2022-03-11,
+E0256,C0256,Male,Patrick Moore,2512 - Software developers,Junior Software Developer,Junior,1.0,2020-01-23,
+E0257,C0257,Female,Sandra Gilbert,2512 - Software developers,Front-End Developer,Mid,0.5,2017-10-05,
+E0258,C0258,Male,Jacob Ramos,2512 - Software developers,Junior Software Developer,Junior,1.0,2017-01-07,
+E0259,C0259,Female,Ariana Jennings,2512 - Software developers,Junior Software Developer,Junior,1.0,2022-04-07,
+E0260,C0260,Male,Matthew Brown,2512 - Software developers,Senior Software Developer,Senior,1.0,2017-09-11,
+E0261,C0261,Female,Barbara Charles,2512 - Software developers,Software Developer,Mid,1.0,2020-09-26,
+E0262,C0262,Male,Daniel Fowler,2512 - Software developers,Senior Software Developer,Senior,1.0,2013-05-13,
+E0263,C0263,Female,Felicia Zhang,2522 - Systems administrators,DevOps Engineer,Mid,1.0,2022-08-10,
+E0264,C0264,Female,Sandra Spencer,2421 - Management and organization analysts,Project Manager (IT),Lead,1.0,2022-12-23,2024-03-24
+E0265,C0265,Female,Crystal Schroeder,2512 - Software developers,Junior Software Developer,Junior,1.0,2023-02-21,
+E0266,C0266,Male,Scott Thomas,2512 - Software developers,Junior Software Developer,Junior,1.0,2015-03-19,
+E0267,C0267,Female,Rebecca Rodriguez,2512 - Software developers,Junior Software Developer,Junior,1.0,2013-06-10,
+E0268,C0268,Male,Hunter Kramer,2512 - Software developers,Junior Software Developer,Junior,1.0,2023-01-08,2024-05-05
+E0269,C0269,Female,Deborah Martinez,2512 - Software developers,Senior Software Developer,Senior,1.0,2020-02-29,
+E0270,C0270,Male,Patrick Alvarez,2512 - Software developers,Senior Software Developer,Senior,1.0,2019-02-28,
+E0271,C0271,Female,Ashley Gordon,2421 - Management and organization analysts,Project Manager (IT),Lead,0.25,2023-06-20,
+E0272,C0272,Male,Richard Camacho,2512 - Software developers,Junior Software Developer,Junior,1.0,2021-11-15,2024-04-27
+E0273,C0273,Male,Victor Brown,2512 - Software developers,Junior Software Developer,Junior,1.0,2021-02-24,2024-11-25
+E0274,C0274,Female,Melissa Henry,2421 - Management and organization analysts,Project Manager (IT),Lead,0.25,2020-07-19,
+E0275,C0275,Female,Angela Franklin,2522 - Systems administrators,DevOps Engineer,Mid,1.0,2014-02-13,2024-02-19
+E0276,C0276,Male,Mark Kelley,2512 - Software developers,Senior Software Developer,Senior,1.0,2018-07-14,
+E0277,C0277,Female,Linda Phillips,2421 - Management and organization analysts,Product Manager,Lead,1.0,2021-08-08,
+E0278,C0278,Female,Annette Miles,2512 - Software developers,Senior Software Developer,Senior,0.5,2024-02-21,
+E0279,C0279,Male,Randy Le,2512 - Software developers,Full-Stack Developer,Mid,1.0,2016-08-29,
+E0280,C0280,Male,Stephen Gutierrez,2512 - Software developers,Senior Software Developer,Senior,1.0,2020-09-18,
+E0281,C0281,Female,Monica Edwards,2421 - Management and organization analysts,Project Manager (IT),Lead,1.0,2018-04-26,
+E0282,C0282,Female,Jacqueline Hernandez,2512 - Software developers,Senior Software Developer,Senior,1.0,2021-01-25,
+E0283,C0283,Male,Ronald Davis,3341 - Office supervisors,Office Manager,Lead,1.0,2014-08-24,2024-10-16
+E0284,C0284,Male,Robert Hawkins,2421 - Management and organization analysts,Project Manager (IT),Lead,1.0,2022-12-24,
+E0285,C0285,Female,Kristina Santiago,2512 - Software developers,Junior Software Developer,Junior,1.0,2019-12-28,
+E0286,C0286,Female,Mary Christensen,2512 - Software developers,Junior Software Developer,Junior,1.0,2013-11-16,
+E0287,C0287,Female,Miss Heather Lane,2512 - Software developers,Senior Software Developer,Senior,1.0,2016-08-14,
+E0288,C0288,Male,John Boone,2421 - Management and organization analysts,Project Manager (IT),Lead,0.75,2018-12-16,
+E0289,C0289,Female,Holly Farmer,2521 - Database designers and administrators,Database Administrator,Mid,0.25,2022-10-08,
+E0290,C0290,Female,Jessica Hoffman,2512 - Software developers,Full-Stack Developer,Mid,0.5,2023-07-31,
+E0291,C0291,Female,Maria Johnson,2512 - Software developers,Senior Software Developer,Senior,1.0,2024-03-11,
+E0292,C0292,Female,Debra White,2529 - Database and network professionals not elsewhere classified,Cloud Engineer,Mid,1.0,2024-12-15,
+E0293,C0293,Male,Thomas Bell,1330 - Information and communications technology service managers,Director of IT,Mid,1.0,2016-02-02,
+E0294,C0294,Female,Kylie Morales,2423 - Personnel and careers professionals,HR Specialist,Mid,1.0,2015-06-01,
+E0295,C0295,Female,Valerie Davis,3341 - Office supervisors,Office Manager,Lead,1.0,2022-01-10,
+E0296,C0296,Male,Jason Peterson,2512 - Software developers,Junior Software Developer,Junior,1.0,2019-04-19,
+E0297,C0297,Female,Erika Pugh,2522 - Systems administrators,DevOps Engineer,Mid,1.0,2023-02-22,
+E0298,C0298,Male,Anthony Moore,"2120 - Mathematicians, actuaries and statisticians",Data Scientist,Mid,1.0,2023-07-07,
+E0299,C0299,Male,Brad Ramos,2512 - Software developers,Senior Software Developer,Senior,0.5,2020-03-19,
+E0300,C0300,Female,Jessica Nelson,2512 - Software developers,Senior Software Developer,Senior,1.0,2021-09-19,
+E0301,C0301,Male,Jeffrey Campbell,2512 - Software developers,Software Developer,Mid,1.0,2024-07-17,
+E0302,C0302,Female,Kelsey Parker,2512 - Software developers,Junior Software Developer,Junior,1.0,2016-10-02,2024-06-02
+E0303,C0303,Female,Amy Harris DVM,3341 - Office supervisors,Office Manager,Lead,1.0,2015-05-03,
+E0304,C0304,Female,Donna Wilson,2421 - Management and organization analysts,Product Manager,Lead,1.0,2021-06-18,2024-10-17
+E0305,C0305,Female,Betty Patel,2512 - Software developers,Junior Software Developer,Junior,1.0,2016-11-30,
+E0306,C0306,Female,Sandra Drake,2512 - Software developers,Software Developer,Mid,1.0,2014-03-24,
+E0307,C0307,Female,Natalie Graham,2421 - Management and organization analysts,Product Manager,Lead,1.0,2020-10-27,
+E0308,C0308,Male,Scott Johnston,2421 - Management and organization analysts,Project Manager (IT),Lead,1.0,2022-10-03,
+E0309,C0309,Male,Mark Roberts,2512 - Software developers,Senior Software Developer,Senior,0.75,2019-11-22,2024-01-09
+E0310,C0310,Female,Mrs. Theresa Stevens,2512 - Software developers,Senior Software Developer,Senior,0.75,2024-09-25,
+E0311,C0311,Male,Brandon Richard,2421 - Management and organization analysts,Project Manager (IT),Lead,0.25,2017-02-20,
+E0312,C0312,Female,Jennifer Miller,2512 - Software developers,Junior Software Developer,Junior,0.75,2018-04-12,
+E0313,C0313,Male,Daniel Maxwell,2512 - Software developers,Senior Software Developer,Senior,1.0,2014-04-20,
+E0314,C0314,Female,Ashley Hicks,2512 - Software developers,Junior Software Developer,Junior,0.5,2018-12-11,
+E0315,C0315,Female,Tina Brewer,1211 - Finance managers,Finance Manager,Lead,1.0,2015-07-07,
+E0316,C0316,Male,Charles Gonzalez,2512 - Software developers,Senior Software Developer,Senior,1.0,2023-04-02,
+E0317,C0317,Female,Olivia Jones,2512 - Software developers,Junior Software Developer,Junior,1.0,2023-09-07,2024-11-24
+E0318,C0318,Female,Nicole Wolf,2512 - Software developers,Senior Software Developer,Senior,1.0,2020-08-21,
+E0319,C0319,Female,Sonia Day,2512 - Software developers,Junior Software Developer,Junior,1.0,2023-08-17,
+E0320,C0320,Female,Tricia Stewart,2512 - Software developers,Back-End Developer,Mid,1.0,2020-06-25,
+E0321,C0321,Female,Jessica Turner,2421 - Management and organization analysts,Data Analyst,Mid,1.0,2017-09-03,
+E0322,C0322,Female,Heather Jones,2421 - Management and organization analysts,Product Manager,Lead,1.0,2020-11-09,
+E0323,C0323,Male,Anthony Decker,2512 - Software developers,Junior Software Developer,Junior,0.25,2014-04-22,
+E0324,C0324,Male,William Davis,2512 - Software developers,Senior Software Developer,Senior,0.75,2023-02-09,
+E0325,C0325,Male,Joel Spencer,2421 - Management and organization analysts,Project Manager (IT),Lead,1.0,2013-09-12,2024-03-02
+E0326,C0326,Female,Rhonda Pearson,2166 - Graphic and multimedia designers,UX Designer,Mid,1.0,2018-06-21,2024-08-22
+E0327,C0327,Male,Chris Brown,2421 - Management and organization analysts,Product Manager,Lead,1.0,2014-10-06,
+E0328,C0328,Male,Ryan Haas,2421 - Management and organization analysts,Product Manager,Lead,0.5,2014-06-09,
+E0329,C0329,Male,Christopher Wright,2512 - Software developers,Back-End Developer,Mid,1.0,2020-06-13,2024-06-19
+E0330,C0330,Female,Lisa Cox,2512 - Software developers,Senior Software Developer,Senior,0.75,2017-10-24,
+E0331,C0331,Female,Patricia Shelton,2512 - Software developers,Senior Software Developer,Senior,1.0,2013-11-22,
+E0332,C0332,Male,Matthew Jones,2512 - Software developers,Senior Software Developer,Senior,1.0,2014-08-11,2024-08-04
+E0333,C0333,Female,Diane Cummings,3512 - Information and communications technology user support technicians,IT Support Specialist,Mid,1.0,2024-03-03,
+E0334,C0334,Female,Miss Brittany Miller,2512 - Software developers,Senior Software Developer,Senior,1.0,2024-04-16,
+E0335,C0335,Female,Hannah Ponce,2512 - Software developers,Full-Stack Developer,Mid,1.0,2024-11-19,
+E0336,C0336,Male,Carl Fletcher,2512 - Software developers,Senior Software Developer,Senior,1.0,2014-06-11,
+E0337,C0337,Female,Jamie Conner,2512 - Software developers,Senior Software Developer,Senior,1.0,2015-03-06,
+E0338,C0338,Male,Ronald Rodgers,2166 - Graphic and multimedia designers,UX Designer,Mid,1.0,2024-08-30,
+E0339,C0339,Female,Anna Santiago,2421 - Management and organization analysts,Project Manager (IT),Lead,1.0,2021-08-26,
+E0340,C0340,Male,Jack White,2421 - Management and organization analysts,Product Manager,Lead,1.0,2016-08-23,2024-05-12
+E0341,C0341,Female,Katelyn Perez,2529 - Database and network professionals not elsewhere classified,Cloud Engineer,Mid,1.0,2015-05-05,
+E0342,C0342,Female,Elizabeth French,2512 - Software developers,Junior Software Developer,Junior,1.0,2021-08-21,
+E0343,C0343,Male,Russell Stephenson,2529 - Database and network professionals not elsewhere classified,IT Security Specialist,Mid,0.75,2013-08-23,
+E0344,C0344,Female,Sherri Williamson,2512 - Software developers,Software Developer,Mid,0.75,2023-03-01,2024-05-26
+E0345,C0345,Female,Catherine Schwartz,2512 - Software developers,Senior Software Developer,Senior,1.0,2023-08-19,
+E0346,C0346,Female,Carol Kim,2421 - Management and organization analysts,Product Manager,Lead,0.5,2019-12-28,
+E0347,C0347,Female,Michelle Montes,2512 - Software developers,Junior Software Developer,Junior,1.0,2023-05-23,
+E0348,C0348,Female,Nicole Cole,2512 - Software developers,Junior Software Developer,Junior,1.0,2022-02-01,
+E0349,C0349,Male,Vincent Mueller,2421 - Management and organization analysts,Project Manager (IT),Lead,0.5,2016-04-20,
+E0350,C0350,Male,Travis Joyce,2512 - Software developers,Junior Software Developer,Junior,1.0,2020-11-08,
+E0351,C0351,Female,Paula Shaw,2512 - Software developers,Senior Software Developer,Senior,1.0,2020-02-15,
+E0352,C0352,Female,Dr. Rebecca Taylor,2512 - Software developers,Junior Software Developer,Junior,1.0,2017-04-03,
+E0353,C0353,Male,John Watson,2512 - Software developers,Junior Software Developer,Junior,1.0,2014-09-30,
+E0354,C0354,Female,Kelli Martinez,2512 - Software developers,Senior Software Developer,Senior,1.0,2014-06-06,
+E0355,C0355,Male,Don Whitehead,1211 - Finance managers,Finance Manager,Lead,1.0,2015-07-05,
+E0356,C0356,Female,Anna Lozano,2421 - Management and organization analysts,Project Manager (IT),Lead,1.0,2020-09-04,2024-12-09
+E0357,C0357,Male,Alexander Brown,2512 - Software developers,Junior Software Developer,Junior,1.0,2021-07-17,
+E0358,C0358,Female,Jasmin Miller,2512 - Software developers,Junior Software Developer,Junior,1.0,2016-10-27,
+E0359,C0359,Male,Timothy Combs,2512 - Software developers,Back-End Developer,Mid,1.0,2024-01-22,2024-05-10
+E0360,C0360,Female,Brenda Mitchell,2512 - Software developers,Software Developer,Mid,1.0,2021-01-14,
+E0361,C0361,Female,Brenda Thornton,2421 - Management and organization analysts,Project Manager (IT),Lead,1.0,2020-08-19,
+E0362,C0362,Male,Taylor Smith,2512 - Software developers,Senior Software Developer,Senior,1.0,2016-09-02,
+E0363,C0363,Male,Joshua Acosta,2512 - Software developers,Junior Software Developer,Junior,1.0,2021-12-24,
+E0364,C0364,Male,Ricardo Young,2512 - Software developers,Junior Software Developer,Junior,0.25,2015-01-28,
+E0365,C0365,Female,Jennifer Bauer,2512 - Software developers,Software Developer,Mid,1.0,2020-10-11,2024-04-26
+E0366,C0366,Female,Susan Carlson,2421 - Management and organization analysts,Project Manager (IT),Lead,0.5,2013-04-13,2024-10-02
+E0367,C0367,Female,Dana Thomas,2512 - Software developers,Full-Stack Developer,Mid,1.0,2020-04-21,
+E0368,C0368,Male,Harry Duncan,3512 - Information and communications technology user support technicians,IT Support Specialist,Mid,1.0,2016-03-09,
+E0369,C0369,Male,Bradley Villegas,2512 - Software developers,Senior Software Developer,Senior,1.0,2014-02-25,
+E0370,C0370,Female,Kimberly Hartman,2512 - Software developers,Full-Stack Developer,Mid,1.0,2021-08-21,
+E0371,C0371,Female,Jeanette Harrison,2512 - Software developers,Junior Software Developer,Junior,1.0,2023-10-25,
+E0372,C0372,Male,James Burgess,2512 - Software developers,Junior Software Developer,Junior,1.0,2019-01-28,
+E0373,C0373,Male,Gregory Quinn,2512 - Software developers,Junior Software Developer,Junior,1.0,2023-09-09,
+E0374,C0374,Male,Kevin Sherman,2512 - Software developers,Software Developer,Mid,1.0,2015-04-09,
+E0375,C0375,Female,Kimberly Li,2512 - Software developers,Senior Software Developer,Senior,1.0,2015-12-24,2024-11-18
+E0376,C0376,Male,John Dominguez,2512 - Software developers,Senior Software Developer,Senior,1.0,2023-10-01,2024-03-11
+E0377,C0377,Male,Arthur Parsons,2421 - Management and organization analysts,Project Manager (IT),Lead,1.0,2020-10-14,
+E0378,C0378,Female,Christina Moody,2421 - Management and organization analysts,Product Manager,Lead,1.0,2013-09-18,
+E0379,C0379,Female,Emily Sanders,2512 - Software developers,Senior Software Developer,Senior,1.0,2022-03-29,2024-10-03
+E0380,C0380,Female,Amanda Lucas,2512 - Software developers,Senior Software Developer,Senior,0.5,2017-11-13,
+E0381,C0381,Female,Priscilla Glenn,2421 - Management and organization analysts,Product Manager,Lead,0.75,2018-08-25,
+E0382,C0382,Male,Robert Kim,2512 - Software developers,Senior Software Developer,Senior,1.0,2019-10-22,
+E0383,C0383,Female,Stephanie Hughes,2512 - Software developers,Machine Learning Engineer,Mid,1.0,2016-03-06,
+E0384,C0384,Male,Jonathan Glass,2512 - Software developers,Full-Stack Developer,Mid,1.0,2021-11-01,2024-04-13
+E0385,C0385,Female,Monica Miller,2529 - Database and network professionals not elsewhere classified,Data Engineer,Mid,0.75,2023-04-02,2024-11-15
+E0386,C0386,Male,Edward Garcia,2423 - Personnel and careers professionals,HR Specialist,Mid,1.0,2018-07-31,
+E0387,C0387,Female,Elizabeth Morrison,2512 - Software developers,Senior Software Developer,Senior,1.0,2020-04-01,
+E0388,C0388,Female,Jill West,2512 - Software developers,Senior Software Developer,Senior,1.0,2018-12-31,
+E0389,C0389,Male,Jeffrey Fowler,2421 - Management and organization analysts,Product Manager,Lead,1.0,2013-12-23,
+E0390,C0390,Male,Mark Cox,2421 - Management and organization analysts,Project Manager (IT),Lead,1.0,2013-07-13,2024-03-03
+E0391,C0391,Male,Lawrence Harrington,2421 - Management and organization analysts,Product Manager,Lead,1.0,2013-08-05,
+E0392,C0392,Male,David Brewer,2512 - Software developers,Front-End Developer,Mid,1.0,2019-03-01,
+E0393,C0393,Female,Latoya Jacobs,2421 - Management and organization analysts,Product Manager,Lead,1.0,2024-07-21,
+E0394,C0394,Female,Jacqueline Wallace,2421 - Management and organization analysts,Project Manager (IT),Lead,1.0,2014-04-23,2024-08-10
+E0395,C0395,Male,Jacob Edwards,2512 - Software developers,Junior Software Developer,Junior,0.75,2017-09-28,
+E0396,C0396,Male,Brian Fitzgerald,2519 - Software and applications developers and analysts not elsewhere classified,QA Tester,Mid,1.0,2021-06-28,2024-09-21
+E0397,C0397,Male,Thomas Wilson,2512 - Software developers,Senior Software Developer,Senior,1.0,2017-06-06,
+E0398,C0398,Female,Cindy Carr,2512 - Software developers,Junior Software Developer,Junior,1.0,2024-10-22,
+E0399,C0399,Male,John Martinez,2512 - Software developers,Senior Software Developer,Senior,1.0,2014-04-06,
+E0400,C0400,Female,Stephanie Wallace,2512 - Software developers,Junior Software Developer,Junior,0.75,2014-06-30,
+E0124,C0124U,Female,Alicia Gilmore,2512 - Software developers,Junior Software Developer,Junior,1.0,2022-10-18,2024-05-27
+E0099,C0099U,Male,Matthew Martinez,2421 - Management and organization analysts,Project Manager (IT),Lead,1.0,2018-02-10,2024-11-26
+E0318,C0318U,Female,Nicole Wolf,2512 - Software developers,Full-Stack Developer,Mid,1.0,2020-08-21,
+E0270,C0270U,Male,Patrick Alvarez,2512 - Software developers,Senior Software Developer,Senior,1.0,2019-02-28,
+E0130,C0130U,Male,Joseph Meadows MD,2512 - Software developers,Junior Software Developer,Junior,1.0,2024-04-12,
+E0182,C0182U,Female,Brittany Baker,2421 - Management and organization analysts,Project Manager (IT),Lead,1.0,2015-06-03,
+E0137,C0137U,Female,Kara Wilson,2512 - Software developers,Senior Software Developer,Senior,1.0,2016-09-16,
+E0204,C0204U,Female,Kaitlyn Bryant,2512 - Software developers,Junior Software Developer,Junior,1.0,2015-06-18,
+E0041,C0041U,Male,Kevin Hall,2522 - Systems administrators,System Administrator,Mid,0.25,2016-09-30,2024-09-16
+E0192,C0192U,Male,Frank Garcia,2421 - Management and organization analysts,Product Manager,Lead,1.0,2015-09-27,2024-05-08
+E0208,C0208U,Female,Sara Carpenter,2512 - Software developers,Front-End Developer,Mid,1.0,2024-03-24,
+E0236,C0236U,Male,Patrick Wall,2512 - Software developers,Senior Software Developer,Senior,1.0,2017-11-14,
+E0290,C0290U,Female,Jessica Hoffman,2512 - Software developers,Software Developer,Mid,0.5,2023-07-31,
+E0125,C0125U,Female,Terri Evans,2512 - Software developers,Senior Software Developer,Senior,1.0,2019-08-21,
+E0357,C0357U,Male,Alexander Brown,2512 - Software developers,Software Developer,Mid,1.0,2021-07-17,
+E0116,C0116U,Male,Steven Simmons,2421 - Management and organization analysts,Project Manager (IT),Lead,1.0,2022-04-28,
+E0154,C0154U,Female,Deanna Ramirez,2512 - Software developers,Senior Software Developer,Senior,0.25,2023-02-22,
+E0351,C0351U,Female,Paula Shaw,2512 - Software developers,Senior Software Developer,Senior,1.0,2020-02-15,
+E0042,C0042U,Female,Michelle Brown,2521 - Database designers and administrators,Database Administrator,Mid,1.0,2014-02-23,
+E0335,C0335U,Female,Hannah Ponce,2421 - Management and organization analysts,Project Manager (IT),Lead,1.0,2024-11-19,
