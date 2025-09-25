@@ -54,12 +54,26 @@ Contains data of monthly payroll and working days
 
 
 ## mõisted
-- palk
-- palgavahemik
+**Põhipalk** – ühe kuu jooksul makstav töötaja põhipalk (ilma lisatasudeta).  
+
+**Lisatasu** – ühe kuu jooksul makstav töötajale arvestatud lisatasu (nt preemia, lisatasu lisatöö eest jms).  
+
+**Kuupalk** – töötaja ühe kuu kogutöötasu, sh põhipalk ja lisatasud.  
+
+**Täistööajaga kuupalk** – täistööajaga töötava töötaja kuupalk.  
+
+**Keskmine palk** – täistööajaga töötava töötaja keskmine kuupalk valitud perioodi jooksul.  
+
+**Grupi keskmine palk** – töötajate grupi (nt osakond, ametigrupp) keskmine palk.  
+
+**Grupi mediaan** – töötajate grupi kuupalkade mediaan, mis näitab tüüpilist palgataset grupis (vältides üksikute väga kõrgete või madalate palkade mõju).  
+
+**Palgavahemik** – töötajate grupi keskmiste kuupalkade minimaalne ja maksimaalne väärtus.  
+
+**Palgalõhe** – meeste ja naiste keskmise palga erinevus protsendina meeste keskmisest palgast.  
+
 - tööpere
 - tasandid
-- palgalõhe
-- piirkond\asukoht
 - läbipaistvus
 ## andmekaitse
 - Väljundite jagamise üle otsustab personaliosakonna töötaja
