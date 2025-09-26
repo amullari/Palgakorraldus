@@ -6,70 +6,61 @@
 - [Data Model](#data-model)
   - [Contract Table](#contract-table)
   - [Salary Table](#salary-table)
+- [Description of output](description-of-output)
+- [Generation of Dummy data](generation-of-dummy-data)
 
 ## Purpose of the Data Analysis
 
-The objective of this data analysis is to create a **user-friendly analysis tool for HR staff**. This involves making salary and benefits structures understandable to employees and managers, allowing comparisons across categories, levels, and gender. The aim is to support a fair and transparent compensation policy.
+The objective of this data analysis is to create a **user-friendly analysis tool for HR staff**. This involves making salary and benefits structures understandable to employees and managers, allowing comparisons across categories, levels, and gender. The aim is to support a fair and transparent salary policy.
 
 Improving pay transparency helps build **trust**, supports **equitable pay practices**, and enables informed decision-making for both employees and management.
 
 
-## Data model
-![andmemudel](images/andmemudel.png)
+## Data Model
+![Data Model](images/andmemudel.png)
 ### Contract Table
 Contains Contract data. Data about needed dimensions - position category, position level and contract period. Included detail data to enable data drill down.
-Employee ID -FK to employee table, not represented in data model
-Contract ID - Primary key
-Full Name - Employee full name
-Gender - Male/Female
-start date - Contract start date
-End date - Contract end date, may be empty
-Position - Employee position
-Category - Position Category
-Level - Position level
-Workload - percent of full position, between 0 and 1
+
 
 | Field Name   | Data Type     | Key / Relation               | Description                                                                 |
 |--------------|--------------|------------------------------|-----------------------------------------------------------------------------|
 | EmployeeID   | Long Integer | FK → Employee.EmployeeID (*) | Link to Employee table (not represented in data model).                     |
 | ContractID   | Long Integer | PK                           | Primary key of the contract.                                                |
-| FullName     | Text (255)   |                              | Employee’s full name.                                                       |
-| Gender       | Text (10)    |                              | Gender: "Male" or "Female".                                                 |
-| StartDate    | Date/Time    |                              | Contract start date.                                                        |
-| EndDate      | Date/Time    |                              | Contract end date (may be empty/null).                                      |
-| Position     | Text (100)   |                              | Employee position.                                                          |
-| Category     | Text (100)   |                              | Position category.                                                          |
-| Level        | Text (50)    |                              | Position level.                                                             |
-| Workload     | Number (Double) |                           | Workload as a fraction of full position (0.0–1.0).                          |
+| FullName     | Text    |                              | Employee’s full name.                                                       |
+| Gender       | Text     |                              | Gender: "Male" or "Female".                                                 |
+| StartDate    | Date   |                              | Contract start date.                                                        |
+| EndDate      | Date    |                              | Contract end date (may be empty/null).                                      |
+| Position     | Text   |                              | Employee position.                                                          |
+| Category     | Text    |                              | Position category.                                                          |
+| Level        | Text    |                              | Position level.                                                             |
+| Workload     | Number (Real) |                           | Workload as a fraction of full position (0 – 1).                          |
 
 
-### Salary table 
+### Salary Table 
 Contains data of monthly payroll and working days
 
 | Field Name         | Data Type        | Key / Relation                 | Description                                                                 |
 |--------------------|-----------------|--------------------------------|-----------------------------------------------------------------------------|
 | ContractID         | Long Integer    | FK → Contract.ContractID       | Foreign key to Contract table.                                              |
-| PeriodStart        | Date/Time       |                                | First day of the month.                                                     |
-| PeriodEnd          | Date/Time       |                                | Last day of the month.                                                      |
+| PeriodStart        | Date       |                                | First day of the month.                                                     |
+| PeriodEnd          | Date       | FK → Monthly Workdays.Month                                | Last day of the month.                                                      |
 | ActualWorkingDays  | Integer         |                                | Number of days worked in the month.                                         |
 | Salary             | Decimal         |                                | Base salary amount for the month.                                           |
-| Benefit            | Decimal        |                                | Benefits/bonuses paid in the month.                                         |
+| Benefit            | Decimal         |                                | Benefits/bonuses paid in the month.                                         |
 | MissedDays         | Integer         |                                | Number of missed workdays (vacation, sick leave, etc.).                     |
 | FullSalary         | Calculated      |                                | `[Salary] + [Benefit]`.                                                     |
 
 
+### Monthly Workdays Table 
+Contains number of working days and working hours for each month
 
+| Field Name         | Data Type        | Key / Relation                 | Description                                                                 |
+|--------------------|-----------------|--------------------------------|-----------------------------------------------------------------------------|
+| Month              | Date    | PK       | Last day of the month                                              |
+| Working days        | integer       |                      | number of working days of the month.                                                     |
+| Hours          | integer       |                           | Number of working hours of the month.                                                      |
 
-- töötajate/töölepingute andmed
-- ettevõtte struktuur
-- ?tööturu andmed
-
-
-
-### mõõdikud
-
-
-## Glossary of terms
+## Glossary of Terms
 
 **Base Salary** – the employee’s monthly base salary (excluding allowances or bonuses).  
 
@@ -93,23 +84,18 @@ Contains data of monthly payroll and working days
 
 **Level** – indicates the seniority or experience of a position within a category.
 
-- läbipaistvus
-
 ## Data Protection
 - The HR department decides on the sharing of outputs.  
 - HR staff using the reports may access all detailed data.  
 - Final outputs are not produced for groups with fewer than 3 individuals.  
 - Data may be presented to an employee regarding their own group only.
 
-### Detailandmed on
-....
+## Description of Output
+- Salary range table by category and Level
+- Salary gap analysis graphs and/or tables
+- Drill down to source data
 
-## Väljundi kirjeldus
-- palgavahemikud
-- palgalõhe analüüs
-- ? võrdlus tööturuga
-
-## LISA. Andmete genereerimise skript ja chatgpt esitatud tingimused
+## Generation of Dummy Data
 For demonstration we generated data with AI (ChatGPT) for 400 employees in an IT company.
 - tables for contract data and salary data as described in data model
 - data for year 2024
