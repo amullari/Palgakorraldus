@@ -6,6 +6,7 @@
 - [Data Model](#data-model)
   - [Contract Table](#contract-table)
   - [Salary Table](#salary-table)
+  - [Monthly Workdays Table](#monthly-workdays-table)
 - [Description of output](description-of-output)
 - [Generation of Dummy data](generation-of-dummy-data)
 
@@ -103,5 +104,8 @@ For demonstration we generated data with AI (ChatGPT) for 400 employees in an IT
 - women and men salary should have small pay gap within the same job position category 
 - the contract table have employees with changed contractual conditions (position, category, level of position) and some employees who have started to work in 2024 and some employees who have left the company in year 2024. End date should be mostly empty
 - generate missed days realistically taking estonian seasionality into account and calculate smaller salaries proportionally
-- create one row for each contract for each month taking into account contract start date and end date
+- create one row for each contract for each month taking into account contract start date and end date, actual working days
 
+![Employee statistics](Employee_statistics.png)
+
+## Results
