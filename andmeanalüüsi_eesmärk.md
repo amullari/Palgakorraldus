@@ -27,6 +27,7 @@ palkade tabelis
 - palk näidisandmestikus on esitatud 2 osas: põhipalk ja lisatasu
 - Palgad on proportsionaalselt arvestatud vastavalt puudmistele ja koormustele.
 --> töötajate statistika graafik
+
 # 3. Palgavahemikud
 ## Mõõdikud Miinimum ja maksimumpalk (*MIN Salary* ja *MAX Salary*)
 Lahenduses kasutasime täispalgale ümberarvutatud palgamõõdikuid.

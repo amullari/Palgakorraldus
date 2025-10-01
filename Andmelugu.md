@@ -18,7 +18,7 @@ Improving pay transparency helps build **trust**, supports **equitable pay pract
 
 
 ## Data Model
-![Data Model](images/andmemudel.png)
+![Data Model](Ülesande%20Analüüs/images/andmemudel.png)
 ### Contract Table
 Contains Contract data. Data about needed dimensions - position category, position level and contract period. Included detail data to enable data drill down.
 
