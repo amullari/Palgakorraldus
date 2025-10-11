@@ -50,16 +50,20 @@ for c in [COL_SALARY, COL_BENEFITS, COL_ACTUAL, COL_MISSED]:
 salary[COL_PERIOD] = salary[COL_PERIOD].dt.to_period("M").dt.start_time
 salary[COL_PERIOD_END] = salary[COL_PERIOD] + MonthEnd(0)
 
-# --- Ühenda lepingud ja tööpäevade kalender ---
+# --- Ühenda lepingud ja palgad ---
 merged = salary.merge(
     contracts[[COL_EMP, COL_CON, "Start Date", "End Date"]],
     on=[COL_CON],
     how="left"
 )
+
+## ühendamisel jäta alles read, mis on lepingu vahemikus
 merged = merged[
     (merged["Start Date"] <= merged[COL_PERIOD_END]) &
     (merged["End Date"].isna() | (merged["End Date"] >= merged[COL_PERIOD]))
 ]
+
+## ühenda kuu tööpäevade arv
 merged = merged.merge(
     workdays[["Month", "Working Days"]],
     left_on=COL_PERIOD_END,
@@ -67,14 +71,16 @@ merged = merged.merge(
     how="left"
 )
 
-# --- Arvuta kuu päevade ja kattuvuse info ---
-merged["month_total_days"] = (merged[COL_PERIOD_END] - merged[COL_PERIOD]).dt.days + 1
+# --- Arvuta kuu päevade arv ja tööl oldud kuu päevade arv ---
+# 1.kuupäevade arv
+merged["month_total_days"] = (merged[COL_PERIOD_END] - merged[COL_PERIOD]).dt.days + 1 
+# 2.tööl oldud kuupäevade arv
 merged["eff_start"] = merged[[COL_PERIOD, "Start Date"]].max(axis=1)
 merged["eff_end"] = merged[[COL_PERIOD_END, "End Date"]].min(axis=1)
 merged["days_covered"] = (merged["eff_end"] - merged["eff_start"]).dt.days + 1
 merged.loc[merged["days_covered"] < 0, "days_covered"] = 0
 
-# --- Grupipõhine töötlemine ---
+# --- grupeerime töötaja ja kuu alusel ja töötleme läbi kõik grupid ---
 out_rows = []
 grouped = merged.groupby([COL_EMP, COL_PERIOD], sort=False)
 
@@ -86,17 +92,7 @@ for (emp, period), group in grouped:
     total_actual = group[COL_ACTUAL].iloc[0]
     total_missed = group[COL_MISSED].iloc[0]
 
-    # Kui mõlemal real sama väärtus (nt mõlemal 15 ja 8) → võtame ühe korra
-    """     if len(group) > 1 and total_actual == group[COL_ACTUAL].iloc[1]:
-        total_actual = total_actual / len(group)
-        total_missed = total_missed / len(group)
-    """
     total_days = group["month_total_days"].iloc[0]
-
-    if pd.isna(month_wd) or total_days <= 0:
-        group["Adjustment_Comment"] = "No working-days info; row left unchanged"
-        out_rows.extend(group.to_dict("records"))
-        continue
 
     # --- Jagame kuu tööpäevad proportsionaalselt päevade kattuvusega ---
     group["coverage_exact"] = group["days_covered"] / total_days

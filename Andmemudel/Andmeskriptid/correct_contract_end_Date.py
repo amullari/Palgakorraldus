@@ -1,3 +1,7 @@
+# ---
+# arvutame kõigile lepingutele, mille tingimused  olid muudetud, uue juhusliku lõpukuupäeva
+# muudame originaallepingu lõpukuupäeva  ja uue lepingu alguskuupäeva
+
 import pandas as pd
 import numpy as np
 import random
@@ -12,7 +16,9 @@ df["Start Date"] = pd.to_datetime(df["Start Date"], errors="coerce")
 df["End Date"] = pd.to_datetime(df["End Date"], errors="coerce")
 
 # --- Abifunktsioon juhusliku kuupäeva genereerimiseks 2024 ---
-def random_date_2024(min_start=None):
+def random_date_2024(min_start=None):    
+# ----
+# 75% muudetavatest lepingutest muudame kevadel ja sügisel, teistel kuudel 25%
     if random.random() < 0.75:
         season = random.choice(["spring", "autumn"])
         if season == "spring":
@@ -38,6 +44,7 @@ def random_date_2024(min_start=None):
     
     delta = (end - start).days
     return start + pd.to_timedelta(np.random.randint(0, delta+1), unit="D")
+# end function random_date_2024
 
 # --- Lepingute parandamine ---
 df_fixed = df.copy()
