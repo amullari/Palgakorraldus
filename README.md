@@ -38,7 +38,7 @@ These tables contain information about:
 - Monthly salary, benefits, working days  
 
 The structure enables **drill-down analysis** across different organizational groups.  
-Data definitions and calculated fields are described in detail in the files within https://github.com/amullari/Palgakorraldus/tree/main/Andmemudel
+Data definitions and calculated fields are described in detail in the files within _Andmelugu.md_
 
 ---
 
