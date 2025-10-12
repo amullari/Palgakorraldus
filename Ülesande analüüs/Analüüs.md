@@ -15,9 +15,8 @@ The objective of this data analysis is to create a **user-friendly analysis tool
 
 Improving pay transparency helps build **trust**, supports **equitable pay practices**, and enables informed decision-making for both employees and management.
 
-
 ## Data Model
-![Data Model](images/andmemudel.png)
+![Data Model](/images/andmemudel.png)
 ### Contract Table
 Contains Contract data. Data about needed dimensions - position category, position level and contract period. Included detail data to enable data drill down.
 

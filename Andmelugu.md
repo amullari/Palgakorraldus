@@ -8,8 +8,9 @@
   - [Contract Table](#contract-table)
   - [Salary Table](#salary-table)
   - [Monthly Workdays Table](#monthly-workdays-table)
-- [Description of output](description-of-output)
-- [Generation of Dummy data](generation-of-dummy-data)
+- [Measures](#measures)
+- [Generation of Dummy data](#generation-of-dummy-data)
+- [Description of output](#description-of-output)
 
 ## Purpose of the Data Analysis
 
@@ -184,19 +185,7 @@ For demonstration we generated data with AI (ChatGPT) for 400 employees in an IT
 - generate missed days realistically taking estonian seasionality into account and calculate smaller salaries proportionally
 - create one row for each contract for each month taking into account contract start date and end date, actual working days
 
-![Employee statistics](Employee_statistics.png)
+![Employee statistics](/images/Employee_statistics.png)
 
 ## Results
-- täienda kõigepalt andmesõnastikku OK
-- luua uus versioon kogu infost ja postitada githubi, saata teade Kellile 
--kirjeldada mõõdikuid
-- näidata välja arvutuskäigud
-- kirjeldada graafikuid
-- Kuidas aru saada palgalõhe põhjustest
-- kas on võimalik visualiseerida meeste ja naiste osakaal gruppides ja ettevõttes. Mida rohkem inimesi seda rohkem peaks mõjutama tulemust. 
-- luua palgajaotuse graafik
-- tööjõu voolavuse graafiku adekvaatseks tegemine nõuab töötajate tabeli loomist. või töötajakohaste mõõdikute loomist?
-- nende graafikute loomine pythoni abil
-- power BI ühendamine teenusega ja teenuse käitumise uurimine
-- ajafiltri loomine
-- slicerite lisamine
+The description of the result is in progress...

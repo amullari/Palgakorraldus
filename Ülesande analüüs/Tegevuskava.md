@@ -41,3 +41,5 @@
 ### Palgavahemike loomine: Esitage andmepõhine ettepanek palgavahemike kehtestamiseks igale ametikohale, mida saab hiljem töökuulutuses kasutada.
 
 ### Võimalike palgalõhe põhjuste selgitamine: Kui palgalõhe on tuvastatud, pakkuge välja võimalikud põhjused ja tegevused selle vähendamiseks. 
+
+*_tegevuskava loodud chatGPT abil_
