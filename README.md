@@ -7,7 +7,9 @@ Artificial (dummy) data used for this tool was generated with the help of ChatGP
 ## 📘 Project Overview
 
 This project demonstrates how data analysis can support **pay transparency** and **equitable compensation** in an organization.  
+
 The Power BI report visualizes gender pay gaps, workforce composition, and structural factors influencing salary differences.  
+
 It enables HR professionals to explore salaries by **category, level, and gender**, and to identify key drivers of pay disparities.
 
 
