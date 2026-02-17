@@ -5,10 +5,11 @@ The objective of this data analysis is to create a **user-friendly analysis tool
 ## 📘 Project Overview
 
 This project demonstrates how data analysis can support **pay transparency** and **equitable compensation** in an organization.  
+
 The Power BI report visualizes gender pay gaps, workforce composition, and structural factors influencing salary differences.  
+
 It enables HR professionals to explore salaries by **category, level, and gender**, and to identify key drivers of pay disparities.
 
----
 
 ## 📸 Key Visualizations
 
@@ -42,7 +43,6 @@ Scatter Plot is connected with interactive table showing employee-level salary d
 - _Palgauuringu Demo 3.pbx_ – Extract of created charts for presentation purposes  
 - _Palgauuring Demo uute andmetega.pbix_ – Demo file created using improved salary data  
 
----
 
 ## 📁 Documentation
 
@@ -55,7 +55,6 @@ The folder **_Ülesande analüüs_** contains documentation from the analysis st
 
 The folder **_Abimaterjalid_** includes reference and supporting materials created or collected during the project.
 
----
 
 ## 🧩 Data Model Overview
 
@@ -65,7 +64,7 @@ These tables contain information about:
 - Monthly salary, benefits, working days  
 
 The structure enables **drill-down analysis** across different organizational groups.  
-Data definitions and calculated fields are described in detail in the files within [**_Andmemudel_**](#andmemudel)
+Data definitions and calculated fields are described in detail in the files within _Andmelugu.md_
 
 ---
 
@@ -74,11 +73,9 @@ Data definitions and calculated fields are described in detail in the files with
 1. Open `.pbix` files with **Power BI Desktop (version 2024 or newer)**.  
 2. The report uses synthetic data and can be explored safely without privacy concerns.  
 
----
 
 ## 🪪 License / Credits
 
 _This project was created as part of a data analysis training exercise using synthetic data._  
 _All data was generated for demonstration purposes only and does not represent any real organization or individuals._
 
----
