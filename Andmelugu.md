@@ -188,7 +188,7 @@ For demonstration we generated data with AI (ChatGPT) for 400 employees in an IT
 
 ## Results
 - täienda kõigepalt andmesõnastikku OK
-- luua uus versioon kogu infost ja postitada githubi, saata teade Kellile 
+- luua uus versioon kogu infost ja postitada githubi, saata teade Kellile OK
 -kirjeldada mõõdikuid
 - näidata välja arvutuskäigud
 - kirjeldada graafikuid
